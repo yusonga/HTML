@@ -1,3 +1,3 @@
 # HTML
 
-some exercises of `HTML` , `CSS` and `Javascript`.
+some exercises of I did of `HTML` , `CSS` and `Javascript`.
